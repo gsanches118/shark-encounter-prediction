@@ -1,0 +1,102 @@
+# Schema definitions for BigQuery tables
+# Used by ingestion scripts to create/validate tables
+
+staging:
+  stg_shark_incidents:
+    description: "Cleaned shark incident records from the Australian Shark-Incident Database"
+    fields:
+      - name: incident_id
+        type: STRING
+        mode: REQUIRED
+      - name: incident_date
+        type: DATE
+      - name: incident_year
+        type: INTEGER
+      - name: incident_month
+        type: INTEGER
+      - name: state
+        type: STRING
+      - name: location
+        type: STRING
+      - name: latitude
+        type: FLOAT
+      - name: longitude
+        type: FLOAT
+      - name: shark_species
+        type: STRING
+      - name: victim_activity
+        type: STRING
+        description: "surfing, swimming, diving, etc."
+      - name: injury_severity
+        type: STRING
+      - name: fatal
+        type: BOOLEAN
+      - name: time_of_day
+        type: STRING
+      - name: shark_length_m
+        type: FLOAT
+
+  stg_weather:
+    description: "Daily rainfall observations from BOM stations near coastal areas"
+    fields:
+      - name: station_id
+        type: STRING
+      - name: station_name
+        type: STRING
+      - name: observation_date
+        type: DATE
+      - name: rainfall_mm
+        type: FLOAT
+      - name: max_temp_c
+        type: FLOAT
+      - name: latitude
+        type: FLOAT
+      - name: longitude
+        type: FLOAT
+
+  stg_dorsal_sightings:
+    description: "Shark sightings reported via the Dorsal app"
+    fields:
+      - name: sighting_id
+        type: STRING
+      - name: reported_at
+        type: TIMESTAMP
+      - name: location_name
+        type: STRING
+      - name: latitude
+        type: FLOAT
+      - name: longitude
+        type: FLOAT
+      - name: shark_type
+        type: STRING
+      - name: source_type
+        type: STRING
+        description: "visual, drone, tagged_ping, etc."
+      - name: verified
+        type: BOOLEAN
+
+marts:
+  shark_encounter_risk:
+    description: "Final risk score per beach location"
+    fields:
+      - name: location_name
+        type: STRING
+      - name: state
+        type: STRING
+      - name: score_date
+        type: DATE
+      - name: risk_score
+        type: FLOAT
+      - name: risk_level
+        type: STRING
+        description: "Low, Medium, High"
+      - name: recent_sightings_7d
+        type: INTEGER
+      - name: avg_rainfall_7d_mm
+        type: FLOAT
+      - name: is_whale_season
+        type: BOOLEAN
+      - name: time_of_day_risk
+        type: STRING
+      - name: historical_incident_count
+        type: INTEGER

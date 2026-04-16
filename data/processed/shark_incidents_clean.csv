@@ -1,0 +1,31 @@
+incident_date,incident_year,incident_month,state,location,latitude,longitude,shark_common_name,shark_length_m,victim_activity,injury_severity,fatal,incident_time
+2024-01-15,2024,1,New South Wales,Ballina,-28.867,153.567,White,3.5,surfing,major,False,630
+2024-02-03,2024,2,New South Wales,Byron Bay,-28.643,153.612,Bull,2.8,swimming,minor,False,1045
+2024-03-22,2024,3,Queensland,Gold Coast,-28.017,153.43,Bull,2.2,surfing,minor,False,715
+2023-12-08,2023,12,Western Australia,Margaret River,-33.953,114.997,White,4.1,surfing,major,True,1730
+2023-11-19,2023,11,South Australia,Port Lincoln,-34.725,135.86,White,3.8,diving,minor,False,1100
+2024-04-02,2024,4,New South Wales,Coffs Harbour,-30.296,153.114,Bronze Whaler,2.0,swimming,minor,False,1400
+2023-09-14,2023,9,New South Wales,Ballina,-28.867,153.567,White,3.2,surfing,major,False,600
+2023-07-28,2023,7,Queensland,Gold Coast,-28.017,153.43,Tiger,2.5,surfing,minor,False,830
+2024-01-30,2024,1,New South Wales,Bondi Beach,-33.891,151.274,Unknown,1.8,swimming,uninjured,False,1200
+2023-10-05,2023,10,New South Wales,Byron Bay,-28.643,153.612,White,3.0,surfing,minor,False,1645
+2023-06-17,2023,6,Western Australia,Margaret River,-33.953,114.997,White,4.5,surfing,fatal,True,645
+2024-03-11,2024,3,New South Wales,Ballina,-28.867,153.567,Bull,2.4,bodyboarding,minor,False,930
+2023-08-22,2023,8,South Australia,Port Lincoln,-34.725,135.86,White,3.6,diving,major,False,1030
+2022-12-01,2022,12,New South Wales,Coffs Harbour,-30.296,153.114,Bull,2.1,swimming,minor,False,1530
+2022-11-15,2022,11,Queensland,Gold Coast,-28.017,153.43,Bull,2.7,surfing,minor,False,700
+2023-01-09,2023,1,New South Wales,Ballina,-28.867,153.567,White,3.4,surfing,major,False,615
+2022-05-20,2022,5,New South Wales,Byron Bay,-28.643,153.612,White,3.1,surfing,minor,False,1700
+2023-03-03,2023,3,Victoria,Torquay,-38.332,144.326,Bronze Whaler,1.9,swimming,uninjured,False,1300
+2022-09-08,2022,9,Western Australia,Margaret River,-33.953,114.997,White,4.0,surfing,major,False,710
+2024-02-14,2024,2,Queensland,Noosa,-26.39,153.09,Bull,2.3,swimming,minor,False,1115
+2022-07-12,2022,7,New South Wales,Ballina,-28.867,153.567,White,3.7,surfing,major,True,630
+2023-04-18,2023,4,New South Wales,Manly Beach,-33.797,151.288,Unknown,1.5,swimming,uninjured,False,1400
+2022-10-30,2022,10,South Australia,Port Lincoln,-34.725,135.86,White,4.2,cage diving,uninjured,False,1000
+2023-02-06,2023,2,New South Wales,Ballina,-28.867,153.567,Bull,2.6,surfing,minor,False,745
+2022-08-14,2022,8,Queensland,Gold Coast,-28.017,153.43,Tiger,2.8,swimming,minor,False,1630
+2023-05-25,2023,5,New South Wales,Byron Bay,-28.643,153.612,Bronze Whaler,2.0,surfing,uninjured,False,800
+2024-01-07,2024,1,New South Wales,Coffs Harbour,-30.296,153.114,Unknown,2.2,swimming,minor,False,1500
+2022-06-03,2022,6,Western Australia,Margaret River,-33.953,114.997,White,3.9,surfing,minor,False,1715
+2023-12-20,2023,12,New South Wales,Ballina,-28.867,153.567,White,3.3,surfing,major,False,625
+2022-04-09,2022,4,Queensland,Noosa,-26.39,153.09,Tiger,2.4,kayaking,uninjured,False,1100

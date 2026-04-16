@@ -1,0 +1,29 @@
+# data — keep sample files, ignore full datasets
+data/raw/*.xlsx
+!data/raw/shark_incidents_sample.csv
+!data/processed/shark_incidents_clean.csv
+!data/processed/dorsal_sightings.csv
+!data/processed/bom_rainfall.csv
+!data/processed/risk_scores.csv
+
+# python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# outputs — keep generated PDFs in repo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GCP
+service-account-key.json
+*.json
+!config/schema.yml

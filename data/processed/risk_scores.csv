@@ -1,0 +1,11 @@
+location_name,state,score_date,risk_score,risk_level,recent_sightings_7d,avg_rainfall_7d_mm,is_whale_season,time_of_day_risk,historical_incident_count
+Ballina,New South Wales,2026-04-15,72,High,3,54.2,False,dawn,24
+Byron Bay,New South Wales,2026-04-15,55,High,2,48.7,False,dawn,18
+Port Lincoln,South Australia,2026-04-15,47,Medium,1,12.3,False,midday,22
+Margaret River,Western Australia,2026-04-15,42,Medium,1,31.0,False,dusk,14
+Gold Coast,Queensland,2026-04-15,38,Medium,1,22.5,False,midday,11
+Coffs Harbour,New South Wales,2026-04-15,30,Medium,0,55.1,False,midday,9
+Bondi Beach,New South Wales,2026-04-15,20,Low,0,8.4,False,midday,7
+Noosa,Queensland,2026-04-15,18,Low,0,5.2,False,midday,4
+Manly Beach,New South Wales,2026-04-15,12,Low,0,7.1,False,midday,3
+Torquay,Victoria,2026-04-15,8,Low,0,3.8,False,midday,2

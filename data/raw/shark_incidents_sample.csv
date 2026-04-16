@@ -1,0 +1,31 @@
+incident_year,incident_month,incident_day,state,location,latitude,longitude,shark_common_name,shark_length_m,victim_activity,injury_severity,fatal,incident_time
+2024,1,15,NSW,Ballina,-28.867,153.567,White,3.5,surfing,major,N,630
+2024,2,3,NSW,Byron Bay,-28.643,153.612,Bull,2.8,swimming,minor,N,1045
+2024,3,22,QLD,Gold Coast,-28.017,153.430,Bull,2.2,surfing,minor,N,715
+2023,12,8,WA,Margaret River,-33.953,114.997,White,4.1,surfing,major,Y,1730
+2023,11,19,SA,Port Lincoln,-34.725,135.860,White,3.8,diving,minor,N,1100
+2024,4,2,NSW,Coffs Harbour,-30.296,153.114,Bronze Whaler,2.0,swimming,minor,N,1400
+2023,9,14,NSW,Ballina,-28.867,153.567,White,3.2,surfing,major,N,600
+2023,7,28,QLD,Gold Coast,-28.017,153.430,Tiger,2.5,surfing,minor,N,830
+2024,1,30,NSW,Bondi Beach,-33.891,151.274,Unknown,1.8,swimming,uninjured,N,1200
+2023,10,5,NSW,Byron Bay,-28.643,153.612,White,3.0,surfing,minor,N,1645
+2023,6,17,WA,Margaret River,-33.953,114.997,White,4.5,surfing,fatal,Y,645
+2024,3,11,NSW,Ballina,-28.867,153.567,Bull,2.4,bodyboarding,minor,N,930
+2023,8,22,SA,Port Lincoln,-34.725,135.860,White,3.6,diving,major,N,1030
+2022,12,1,NSW,Coffs Harbour,-30.296,153.114,Bull,2.1,swimming,minor,N,1530
+2022,11,15,QLD,Gold Coast,-28.017,153.430,Bull,2.7,surfing,minor,N,700
+2023,1,9,NSW,Ballina,-28.867,153.567,White,3.4,surfing,major,N,615
+2022,5,20,NSW,Byron Bay,-28.643,153.612,White,3.1,surfing,minor,N,1700
+2023,3,3,VIC,Torquay,-38.332,144.326,Bronze Whaler,1.9,swimming,uninjured,N,1300
+2022,9,8,WA,Margaret River,-33.953,114.997,White,4.0,surfing,major,N,710
+2024,2,14,QLD,Noosa,-26.39,153.09,Bull,2.3,swimming,minor,N,1115
+2022,7,12,NSW,Ballina,-28.867,153.567,White,3.7,surfing,major,Y,630
+2023,4,18,NSW,Manly Beach,-33.797,151.288,Unknown,1.5,swimming,uninjured,N,1400
+2022,10,30,SA,Port Lincoln,-34.725,135.860,White,4.2,cage diving,uninjured,N,1000
+2023,2,6,NSW,Ballina,-28.867,153.567,Bull,2.6,surfing,minor,N,745
+2022,8,14,QLD,Gold Coast,-28.017,153.430,Tiger,2.8,swimming,minor,N,1630
+2023,5,25,NSW,Byron Bay,-28.643,153.612,Bronze Whaler,2.0,surfing,uninjured,N,800
+2024,1,7,NSW,Coffs Harbour,-30.296,153.114,Unknown,2.2,swimming,minor,N,1500
+2022,6,3,WA,Margaret River,-33.953,114.997,White,3.9,surfing,minor,N,1715
+2023,12,20,NSW,Ballina,-28.867,153.567,White,3.3,surfing,major,N,625
+2022,4,9,QLD,Noosa,-26.39,153.09,Tiger,2.4,kayaking,uninjured,N,1100

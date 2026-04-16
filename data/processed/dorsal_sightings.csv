@@ -1,0 +1,41 @@
+sighting_id,reported_at,location_name,latitude,longitude,shark_type,source_type,verified
+DRS-0001,2026-04-14T08:23:11,Ballina,-28.8542,153.5812,White,drone,True
+DRS-0002,2026-04-13T16:45:30,Ballina,-28.8715,153.5589,Bull,visual,True
+DRS-0003,2026-04-12T07:10:05,Ballina,-28.8623,153.5701,White,tagged_ping,True
+DRS-0004,2026-04-14T09:55:22,Byron Bay,-28.6388,153.6201,White,lifeguard_report,True
+DRS-0005,2026-04-11T14:30:18,Byron Bay,-28.6512,153.6045,Bull,visual,True
+DRS-0006,2026-04-15T06:42:09,Gold Coast,-28.0223,153.4187,Bull,drone,True
+DRS-0007,2026-04-10T11:15:44,Port Lincoln,-34.7189,135.8712,White,tagged_ping,True
+DRS-0008,2026-04-13T07:28:33,Margaret River,-33.9612,115.0023,White,visual,True
+DRS-0009,2026-04-09T15:50:12,Coffs Harbour,-30.3015,153.1088,Bronze Whaler,visual,False
+DRS-0010,2026-04-14T10:05:48,Ballina,-28.8588,153.5745,Unknown,visual,False
+DRS-0011,2026-04-08T08:12:30,Gold Coast,-28.0301,153.4255,Tiger,drone,True
+DRS-0012,2026-04-07T17:33:15,Byron Bay,-28.6455,153.6112,White,visual,True
+DRS-0013,2026-04-06T09:20:45,Ballina,-28.8701,153.5634,White,lifeguard_report,True
+DRS-0014,2026-04-12T13:40:22,Port Lincoln,-34.7312,135.8545,White,visual,True
+DRS-0015,2026-04-05T07:55:10,Margaret River,-33.9488,114.9912,White,tagged_ping,True
+DRS-0016,2026-04-11T16:10:33,Gold Coast,-28.0145,153.4322,Bull,visual,False
+DRS-0017,2026-04-04T08:45:20,Coffs Harbour,-30.2888,153.1205,Unknown,visual,False
+DRS-0018,2026-04-10T06:30:15,Ballina,-28.8655,153.5778,White,drone,True
+DRS-0019,2026-04-03T14:22:08,Byron Bay,-28.6401,153.6155,Bull,visual,True
+DRS-0020,2026-04-09T10:18:45,Bondi Beach,-33.8945,151.2688,Unknown,visual,False
+DRS-0021,2026-04-02T07:05:30,Gold Coast,-28.0278,153.4201,Tiger,lifeguard_report,True
+DRS-0022,2026-04-08T15:42:18,Port Lincoln,-34.7201,135.8633,White,visual,True
+DRS-0023,2026-04-01T09:30:55,Ballina,-28.8612,153.5690,Bull,visual,True
+DRS-0024,2026-04-07T11:55:40,Margaret River,-33.9555,115.0045,White,drone,True
+DRS-0025,2026-04-13T08:15:22,Coffs Harbour,-30.2945,153.1155,Bronze Whaler,visual,True
+DRS-0026,2026-03-30T16:40:10,Ballina,-28.8578,153.5823,White,tagged_ping,True
+DRS-0027,2026-03-29T07:25:33,Byron Bay,-28.6478,153.6078,Unknown,visual,False
+DRS-0028,2026-03-28T14:10:45,Gold Coast,-28.0190,153.4278,Bull,visual,True
+DRS-0029,2026-03-27T09:50:20,Noosa,-26.3945,153.0855,Tiger,visual,False
+DRS-0030,2026-03-26T06:35:15,Bondi Beach,-33.8878,151.2712,Unknown,visual,False
+DRS-0031,2026-03-25T11:20:40,Port Lincoln,-34.7278,135.8578,White,tagged_ping,True
+DRS-0032,2026-03-24T15:05:28,Margaret River,-33.9501,114.9945,White,visual,True
+DRS-0033,2026-03-23T08:45:12,Ballina,-28.8690,153.5656,White,lifeguard_report,True
+DRS-0034,2026-03-22T10:30:55,Byron Bay,-28.6422,153.6134,Bull,drone,True
+DRS-0035,2026-03-21T07:15:30,Gold Coast,-28.0256,153.4234,Bull,visual,True
+DRS-0036,2026-03-20T13:40:18,Coffs Harbour,-30.3001,153.1122,Bronze Whaler,visual,False
+DRS-0037,2026-03-19T16:55:42,Manly Beach,-33.7988,151.2845,Unknown,visual,False
+DRS-0038,2026-03-18T08:10:25,Ballina,-28.8635,153.5734,White,visual,True
+DRS-0039,2026-03-17T14:25:50,Torquay,-38.3355,144.3212,Bronze Whaler,visual,False
+DRS-0040,2026-03-16T09:40:15,Noosa,-26.3878,153.0922,Unknown,visual,False
