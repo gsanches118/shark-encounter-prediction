@@ -1,4 +1,4 @@
-# Shark Encounter Risk Prediction — Australia
+# Shark Encounter Risk Prediction in Australia
 
 Predicting the probability of a shark encounter (Low / Medium / High) for surfers, swimmers and ocean enthusiasts along the Australian coastline.
 
@@ -6,7 +6,7 @@ Predicting the probability of a shark encounter (Low / Medium / High) for surfer
 
 This project uses historical shark incident data from the [Australian Shark-Incident Database](https://www.taronga.org.au/conservation-and-science/australian-shark-incident-database) combined with environmental variables (rainfall, seasonality, time of day, whale migration patterns) and real-time sighting data from the [Dorsal](https://www.dorsalwatch.com/) app to produce a risk score for popular beach locations.
 
-The pipeline is built on Google Cloud Platform using **BigQuery** for warehousing and analytics, and **Cloud Composer (Airflow)** for orchestration.
+The pipeline is built on Google Cloud Platform using BigQuery for warehousing and analytics, and Cloud Composer (Airflow) for orchestration.
 
 ## Project Structure
 
